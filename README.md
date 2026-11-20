@@ -21,9 +21,19 @@ The dataset includes buildings, roads, vehicles, trees, and open outdoor areas. 
 
 ## Representative Samples
 
-![Four representative OWL triplets, with reference RGB images in the top row, low-light RGB images in the middle row, and thermal images in the bottom row.](assets/owl_samples.png)
+The following figures show representative samples from OWL. Samples at the same position across the three figures form a corresponding triplet.
 
-Each column shows one image triplet. The rows labeled **Target**, **Low**, and **Thermal** correspond to normal-exposure RGB reference images, low-light RGB inputs, and paired thermal images, respectively.
+### Normal-Exposure RGB References
+
+![Representative normal-exposure RGB reference images from OWL.](reference_rgb.png)
+
+### Thermal Images
+
+![Corresponding thermal infrared images from OWL.](thermal.png)
+
+### Low-Light RGB Inputs
+
+![Corresponding low-light RGB input images from OWL.](low_light_rgb.png)
 
 ## Image Acquisition and Registration
 
