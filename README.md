@@ -41,4 +41,4 @@ The complete OWL dataset is not yet publicly available. As it contains images of
 
 ## Contact
 
-For inquiries about OWL, please contact **Nan Duan** at [duannanyoujian@163.com](mailto:duannanyoujian@163.com).
+For inquiries about OWL, please contact **Haitao Pan** at [p15132602834@163.com](mailto:p15132602834@163.com).
