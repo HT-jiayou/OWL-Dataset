@@ -25,15 +25,15 @@ The following figures show representative samples from OWL. Samples at the same 
 
 ### Normal-Exposure RGB References
 
-![Representative normal-exposure RGB reference images from OWL.](reference_rgb.png)
+![Representative normal-exposure RGB reference images from OWL.](assets/Github-Target.png)
 
 ### Thermal Images
 
-![Corresponding thermal infrared images from OWL.](thermal.png)
+![Corresponding thermal infrared images from OWL.](assets/Github-Thermal.png)
 
 ### Low-Light RGB Inputs
 
-![Corresponding low-light RGB input images from OWL.](low_light_rgb.png)
+![Corresponding low-light RGB input images from OWL.](assets/Github-Low.png)
 
 ## Image Acquisition and Registration
 
